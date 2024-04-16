@@ -1,0 +1,305 @@
+{
+    "musics": [
+      {
+        "id": 1,
+        "author": "Guns N' Roses",
+        "text": "Civil War"
+      },
+      {
+        "id": 2,
+        "author": "AC/DC",
+        "text": "Highway to Hell"
+      },
+      {
+        "id": 3,
+        "author": "Led Zeppelin",
+        "text": "Whole Lotta Love"
+      },
+      {
+        "id": 4,
+        "author": "Pink Floyd",
+        "text": "Comfortably Numb"
+      },
+      {
+        "id": 5,
+        "author": "Van Halen",
+        "text": "Jump"
+      },
+      {
+        "id": 6,
+        "author": "Deep Purple",
+        "text": "Smoke on the Water"
+      },
+      {
+        "id": 7,
+        "author": "The Rolling Stones",
+        "text": "Paint It Black"
+      },
+      {
+        "id": 8,
+        "author": "The Beatles",
+        "text": "Hey Jude"
+      },
+      {
+        "id": 9,
+        "author": "Queen",
+        "text": "Bohemian Rhapsody"
+      },
+      {
+        "id": 10,
+        "author": "Jimi Hendrix",
+        "text": "Purple Haze"
+      },
+      {
+        "id": 11,
+        "author": "Metallica",
+        "text": "Enter Sandman"
+      },
+      {
+        "id": 12,
+        "author": "Nirvana",
+        "text": "Smells Like Teen Spirit"
+      },
+      {
+        "id": 13,
+        "author": "The Doors",
+        "text": "Light My Fire"
+      },
+      {
+        "id": 14,
+        "author": "Red Hot Chili Peppers",
+        "text": "Under the Bridge"
+      },
+      {
+        "id": 15,
+        "author": "U2",
+        "text": "With or Without You"
+      },
+      {
+        "id": 16,
+        "author": "The Eagles",
+        "text": "Hotel California"
+      },
+      {
+        "id": 17,
+        "author": "Bob Marley",
+        "text": "No Woman, No Cry"
+      },
+      {
+        "id": 18,
+        "author": "David Bowie",
+        "text": "Space Oddity"
+      },
+      {
+        "id": 19,
+        "author": "The Who",
+        "text": "Baba O'Riley"
+      },
+      {
+        "id": 20,
+        "author": "Radiohead",
+        "text": "Creep"
+      },
+      {
+        "id": 21,
+        "author": "Pearl Jam",
+        "text": "Alive"
+      },
+      {
+        "id": 22,
+        "author": "Dire Straits",
+        "text": "Sultans of Swing"
+      },
+      {
+        "id": 23,
+        "author": "Fleetwood Mac",
+        "text": "Go Your Own Way"
+      },
+      {
+        "id": 24,
+        "author": "The Police",
+        "text": "Every Breath You Take"
+      },
+      {
+        "id": 25,
+        "author": "Pink Floyd",
+        "text": "Wish You Were Here"
+      },
+      {
+        "id": 26,
+        "author": "The Rolling Stones",
+        "text": "Sympathy for the Devil"
+      },
+      {
+        "id": 27,
+        "author": "Led Zeppelin",
+        "text": "Stairway to Heaven"
+      },
+      {
+        "id": 28,
+        "author": "Queen",
+        "text": "Another One Bites the Dust"
+      },
+      {
+        "id": 29,
+        "author": "AC/DC",
+        "text": "Back in Black"
+      },
+      {
+        "id": 30,
+        "author": "Guns N' Roses",
+        "text": "Sweet Child o' Mine"
+      },
+      {
+        "id": 31,
+        "author": "The Beatles",
+        "text": "Let It Be"
+      },
+      {
+        "id": 32,
+        "author": "Bob Dylan",
+        "text": "Like a Rolling Stone"
+      },
+      {
+        "id": 33,
+        "author": "Eric Clapton",
+        "text": "Tears in Heaven"
+      },
+      {
+        "id": 34,
+        "author": "Elvis Presley",
+        "text": "Can't Help Falling in Love"
+      },
+      {
+        "id": 35,
+        "author": "Johnny Cash",
+        "text": "Ring of Fire"
+      },
+      {
+        "id": 36,
+        "author": "The Beach Boys",
+        "text": "Good Vibrations"
+      },
+      {
+        "id": 37,
+        "author": "Bob Dylan",
+        "text": "Knockin' on Heaven's Door"
+      },
+      {
+        "id": 38,
+        "author": "Simon & Garfunkel",
+        "text": "The Sound of Silence"
+      },
+      {
+        "id": 39,
+        "author": "The Clash",
+        "text": "Should I Stay or Should I Go"
+      },
+      {
+        "id": 40,
+        "author": "The Smiths",
+        "text": "There Is a Light That Never Goes Out"
+      },
+      {
+        "id": 41,
+        "author": "Jimi Hendrix",
+        "text": "All Along the Watchtower"
+      },
+      {
+        "id": 42,
+        "author": "The Velvet Underground",
+        "text": "Sweet Jane"
+      },
+      {
+        "id": 43,
+        "author": "Queen",
+        "text": "We Will Rock You"
+      },
+      {
+        "id": 44,
+        "author": "The Doors",
+        "text": "Riders on the Storm"
+      },
+      {
+        "id": 45,
+        "author": "The Rolling Stones",
+        "text": "Gimme Shelter"
+      },
+      {
+        "id": 46,
+        "author": "Led Zeppelin",
+        "text": "Kashmir"
+      },
+      {
+        "id": 47,
+        "author": "Pink Floyd",
+        "text": "Time"
+      },
+      {
+        "id": 48,
+        "author": "The Beatles",
+        "text": "Come Together"
+      },
+      {
+        "id": 49,
+        "author": "The Jimi Hendrix Experience",
+        "text": "Voodoo Child (Slight Return)"
+      },
+      {
+        "id": 50,
+        "author": "The Who",
+        "text": "My Generation"
+      },
+      {
+        "id": 51,
+        "author": "Deep Purple",
+        "text": "Highway Star"
+      },
+      {
+        "id": 52,
+        "author": "Black Sabbath",
+        "text": "Paranoid"
+      },
+      {
+        "id": 53,
+        "author": "Ramones",
+        "text": "Blitzkrieg Bop"
+      },
+      {
+        "id": 54,
+        "author": "The Cure",
+        "text": "Just Like Heaven"
+      },
+      {
+        "id": 55,
+        "author": "The Rolling Stones",
+        "text": "You Can't Always Get What You Want"
+      },
+      {
+        "id": 56,
+        "author": "The Beatles",
+        "text": "Yesterday"
+      },
+      {
+        "id": 57,
+        "author": "Pink Floyd",
+        "text": "Money"
+      },
+      {
+        "id": 58,
+        "author": "Queen",
+        "text": "Under Pressure"
+      },
+      {
+        "id": 59,
+        "author": "The Doors",
+        "text": "Break on Through (To the Other Side)"
+      },
+      {
+        "id": 60,
+        "author": "The Rolling Stones",
+        "text": "Satisfaction"
+      }
+    ]
+  }
+  
